@@ -1,0 +1,7 @@
+path: www
+
+# ssh:
+#   docker:
+#     cmd: ssh %pseudotty% username@server.com %cmd%
+#     url: http://monsite.com
+#     path: /www/path/to/site/root
